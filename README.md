@@ -1,8 +1,8 @@
-![logo](https://tse3.mm.bing.net/th?id=OIP.AKL8lhKfnPcVSElR1r1lpAHaEK&pid=Api&P=0&h=18)
+![logo](linkedin profile.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="400" frameBorder="0">
+<img width="400px" alt="coding" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 <p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank99876&label=Profile%20views&color=0e75b6&style=flat" alt="mayank99876" /> </p>
 
