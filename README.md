@@ -1,9 +1,8 @@
-![logo](linkedin profile.jpg)
+![logo](https://github.com/Mayank99876/Mayank99876/blob/4196a6317e81eac8b0b2e5987d99124df603987c/linkedin%20profile.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Agarwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img width="400px" alt="coding" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
-<p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+<img align="right" width="400px" alt="coding" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank99876&label=Profile%20views&color=0e75b6&style=flat" alt="mayank99876" /> </p>
 
 - 🔭 I’m currently working on **my portfolio website**
