@@ -5,9 +5,9 @@
 <img align="right" width="400px" alt="coding" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank99876&label=Profile%20views&color=0e75b6&style=flat" alt="mayank99876" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I'm seeking opportunities in which I can fully use my skills.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayank99876](https://github.com/Mayank99876)
 
