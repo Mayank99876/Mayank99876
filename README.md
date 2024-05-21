@@ -12,6 +12,13 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mayank99876](https://github.com/Mayank99876)
 
 - 💬 Ask me about **Front-end-technologies**
+- 
+- My projects:
+- Traffic-light protocol - https://github.com/Mayank99876/Traffic-lights-protocol.git.
+- Portfolio website - https://github.com/Mayank99876/Portfolio_website1.git.
+- Drum kit - https://github.com/Mayank99876/Drum-kit.git.
+- Age and distance calculator webApp - https://github.com/Mayank99876/Age-and-distance-calculator-webApp.git.
+- Weather App - https://github.com/Mayank99876/Weather-App.git.
 
 - 📫 How to reach me **scientistmayankagarwal1@gmail.com**
 
