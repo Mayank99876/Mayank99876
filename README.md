@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mayank99876](https://github.com/Mayank99876)
 
 - 💬 Ask me about **Front-end-technologies**
-- 
+  
 - My projects:
 - Traffic-light protocol - https://github.com/Mayank99876/Traffic-lights-protocol.git.
 - Portfolio website - https://github.com/Mayank99876/Portfolio_website1.git.
