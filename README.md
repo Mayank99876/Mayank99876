@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank99876&label=Profile%20views&color=0e75b6&style=flat" alt="mayank99876" /> </p>
 
 - 🔭 I'm seeking opportunities in which I can fully use my skills.
-- 🌱 I’m currently learning **Web3**
 - 👨‍💻 All of my projects are available at [https://github.com/Mayank99876](https://github.com/Mayank99876)
 - 💬 Ask me about **Front-end technologies**
 - 📫 How to reach me **scientistmayankagarwal1@gmail.com**
