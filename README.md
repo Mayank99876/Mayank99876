@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mayank99876](https://github.com/Mayank99876)
 - 💬 Ask me about **Front-end technologies**
 - 📫 How to reach me **scientistmayankagarwal1@gmail.com**
-- ⚡ Fun fact **I am a creative man who learns something new every day.**
+- ⚡ Fun fact **I am a creative man who learns something new quickly if I am in fresh mood.**
 
 ### Projects
 - Traffic-light protocol: [GitHub Repo](https://github.com/Mayank99876/Traffic-lights-protocol)
