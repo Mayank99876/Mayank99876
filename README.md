@@ -17,6 +17,7 @@
 - Drum kit: [GitHub Repo](https://github.com/Mayank99876/Drum-kit)
 - Age and distance calculator webApp: [GitHub Repo](https://github.com/Mayank99876/Age-and-distance-calculator-webApp)
 - Weather App: [GitHub Repo](https://github.com/Mayank99876/Weather-App)
+- Amazon Clone: [Github Repo](https://github.com/Mayank99876/Amazon-Clone.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
